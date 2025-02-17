@@ -49,7 +49,7 @@ This template is agnostic to any database. To connect to a database:
 2. **Install dependencies**
 
    ```bash
-   npm install
+   pnpm install
    ```
 
 3. **Rename `.env.template` to `.env` and configure environment variables**
@@ -71,7 +71,7 @@ This template is agnostic to any database. To connect to a database:
 
 5. **Start the server in development mode**
    ```bash
-   npm run dev
+   pnpm run dev
    ```
 
 📦 **Additional Features**
