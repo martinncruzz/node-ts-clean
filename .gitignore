@@ -4,9 +4,9 @@
 # Node
 node_modules/
 
-# Docker Containers
-mongo/
-postgres/
+# Docker volumes data
+/mongo
+/postgres
 
 # Build
 dist/
